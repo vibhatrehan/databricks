@@ -1,4 +1,4 @@
-# Capstones in Databricks
+### Capstones in Databricks
 
 |#|Project Name | Description | Path|
 |---|---|---|---|
