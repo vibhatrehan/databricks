@@ -1,1 +1,1 @@
-![Project Summary](https://github.com/vibhatrehan/databricks/blob/main/EDA-Kaggle-UdemyData/img/Summary.png)
+![Project Summary](https://github.com/vibhatrehan/databricks/blob/main/1_EDA-Kaggle-UdemyData/img/Summary.png)
